@@ -1,0 +1,11 @@
+---
+title: gems
+---
+
+<ul>
+    <li>
+        <a href="https://rubygems.org/profiles/nryn">
+            fun with ruby gems
+        </a>
+    </li>
+</ul>
