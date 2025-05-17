@@ -1,5 +1,6 @@
 ---
 title: recipes
+tags: python
 ---
 
 <ul>

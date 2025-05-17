@@ -1,5 +1,6 @@
 ---
 title: reactjs
+tags: ruby, rails, react, js
 ---
 
 <ul>

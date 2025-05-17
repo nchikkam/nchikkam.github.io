@@ -1,5 +1,6 @@
 ---
 title: cs
+tags: python, algorithms, parsing, eight-queens, tetris
 ---
 
 <ul>
