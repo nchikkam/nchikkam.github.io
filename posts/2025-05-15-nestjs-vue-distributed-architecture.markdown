@@ -6,7 +6,7 @@ tags: microservices, nestjs, vuejs, algorithms, parsing, npm
 <ul>
     <li>
         <a href="https://cfg-parser.onrender.com">
-            Experimental CFG Parser
+            experimental cfg parser
         </a>
     </li>
 </ul>

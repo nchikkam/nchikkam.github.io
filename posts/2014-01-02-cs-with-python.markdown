@@ -6,7 +6,7 @@ tags: python, algorithms, parsing, eight-queens, tetris
 <ul>
     <li>
         <a href="https://algoprdgms.onrender.com/">
-            Classic CS with Python
+            cs with python
         </a>
     </li>
 </ul>
