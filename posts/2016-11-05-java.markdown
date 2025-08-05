@@ -1,0 +1,17 @@
+---
+title: java
+tags: java, scala, akka, filescanner, aggregator, rest
+---
+
+<ul>
+    <li>
+        <a href="https://github.com/nchikkam/akka-java-scala-plugin">
+            akka-java-scala-plugin
+        </a>
+    </li>
+    <li>
+        <a href="https://github.com/nchikkam/drpwzrd-vrntls">
+            pure rest in java
+        </a>
+    </li>
+</ul>
