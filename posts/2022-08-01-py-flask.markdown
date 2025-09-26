@@ -1,12 +1,22 @@
 ---
-title: flask
-tags: python, api
+title: python
+tags: flask, fastapi, python, asyncio, yoyo, 
 ---
 
 <ul>
     <li>
         <a href="https://github.com/nchikkam/flsk-shrt-url">
             flask api to shorten urls
+        </a>
+    </li>
+    <li>
+        <a href="https://github.com/nchikkam/fastapi-rds-crud">
+            fastapi rds
+        </a>
+    </li>
+    <li>
+        <a href="https://github.com/nchikkam/asyncmon">
+            async based domains monitor
         </a>
     </li>
 </ul>

@@ -1,6 +1,6 @@
 ---
 title: go
-tags: crud, mongodb, api, rest
+tags: crud, mongodb, context, cache, tcp, channels, api, rest, poetry, concurrency
 ---
 
 <ul>
@@ -12,6 +12,11 @@ tags: crud, mongodb, api, rest
     <li>
         <a href="https://github.com/nchikkam/context-findr">
             smart snippets go full stack app
+        </a>
+    </li>
+    <li>
+        <a href="https://github.com/nchikkam/go-redis">
+            simple redis in go
         </a>
     </li>
 </ul>
