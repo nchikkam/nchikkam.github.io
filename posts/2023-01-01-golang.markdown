@@ -1,6 +1,6 @@
 ---
 title: go
-tags: crud, mongodb, context, cache, tcp, channels, api, rest, poetry, concurrency
+tags: crud, mongodb, context, cache, tcp, channels, api, rest, concurrency
 ---
 
 <ul>

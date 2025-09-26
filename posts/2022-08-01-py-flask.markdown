@@ -1,6 +1,6 @@
 ---
 title: python
-tags: flask, fastapi, python, asyncio, yoyo, 
+tags: flask, fastapi, python, asyncio, yoyo, poetry, alembic, docker
 ---
 
 <ul>
