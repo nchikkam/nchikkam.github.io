@@ -1,5 +1,5 @@
 ---
-title: algorithm analysis using ai
+title: algorithm analysis
 tags: flask, python, ai, ml, react, js
 ---
 

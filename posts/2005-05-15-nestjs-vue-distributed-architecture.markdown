@@ -1,5 +1,5 @@
 ---
-title: cfg parsers
+title: parsing
 tags: microservices, nestjs, vuejs, algorithms, parsing, npm
 ---
 

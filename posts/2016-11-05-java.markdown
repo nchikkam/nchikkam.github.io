@@ -1,6 +1,6 @@
 ---
 title: java
-tags: java, scala, akka, filescanner, aggregator, rest
+tags: java, scala, akka, filescanner, aggregator, rest, bazel, concurrency, event stream
 ---
 
 <ul>
@@ -12,6 +12,11 @@ tags: java, scala, akka, filescanner, aggregator, rest
     <li>
         <a href="https://github.com/nchikkam/drpwzrd-vrntls">
             pure rest in java
+        </a>
+    </li>
+    <li>
+        <a href="https://github.com/nchikkam/bazel-brushup">
+            bazel
         </a>
     </li>
 </ul>

@@ -1,6 +1,6 @@
 ---
 title: go
-tags: crud, mongodb, context, cache, tcp, channels, api, rest, concurrency
+tags: crud, mongodb, context, cache, tcp, channels, api, rest, concurrency, terraform-provider
 ---
 
 <ul>
@@ -17,6 +17,11 @@ tags: crud, mongodb, context, cache, tcp, channels, api, rest, concurrency
     <li>
         <a href="https://github.com/nchikkam/go-redis">
             simple redis in go
+        </a>
+    </li>
+    <li>
+        <a href="https://github.com/nchikkam/learn-terraform-docker-container">
+            terraform local experiments with docker
         </a>
     </li>
 </ul>
