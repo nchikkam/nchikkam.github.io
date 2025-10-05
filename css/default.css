@@ -1,8 +1,9 @@
 body {
     color: black;
-    font-size: 16px;
+    font-size: 15px;
     margin: 0px auto 0px auto;
     width: 600px;
+    font-family: 'Inter', sans-serif;
 }
 
 div#header {
@@ -53,4 +54,9 @@ div.info {
     color: #555;
     font-size: 14px;
     font-style: italic;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(48, 84, 202);
 }
