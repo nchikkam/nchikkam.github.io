@@ -1,6 +1,6 @@
 ---
 title: rust + microservices + monolith + rabbitmq
-tags: carto, crates, rust, tokio, amqp, rabbitmq, microservices, dynamodb, postgres, mysql, sqlite3, mongodb
+tags: cargo, crates, rust, tokio, amqp, rabbitmq, microservices, dynamodb, postgres, mysql, sqlite3, mongodb
 ---
 
 <ul>
