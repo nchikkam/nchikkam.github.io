@@ -3,7 +3,8 @@ body {
     font-size: 15px;
     margin: 0px auto 0px auto;
     width: 600px;
-    font-family: 'Inter', sans-serif;
+    /*font-family: Klavika-regular;*/
+    font-family: KlavikaCH-LightCond,KlavikaRegular-TF;
 }
 
 div#header {
